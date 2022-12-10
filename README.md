@@ -1,0 +1,1 @@
+# qr-library-gestional
